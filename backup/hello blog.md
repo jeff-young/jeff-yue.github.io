@@ -1,0 +1,1 @@
+第一篇博客，感谢meekdai的Gmeek项目，感谢github，让我以一种及其简单的方式开始blog之旅。
